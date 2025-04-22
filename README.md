@@ -71,7 +71,7 @@
             É possível que filhotes da mesma ninhada tenham pais diferentes</p>
         <div class="cat-image"></div> <!-- Aqui vai a imagem do gatinho -->
         <p></p>
-        <img src="gatinho.jpg" > 
+        <img src="gatinho.jpg"  width="400"> 
         <iframe width="560" height="315" src="https://www.youtube.com/embed/EAjQNcH9ug0?si=o-kPsxOcVR_Oo4tP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </body>
 </html>
